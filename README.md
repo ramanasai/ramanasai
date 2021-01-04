@@ -1,4 +1,4 @@
-### Hi there, I'm P B Sai Ramana -[linktree][website] 👋
+### Hi there, I'm P B Sai Ramana -[linktree][linktr] 👋
 
 [![website](https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ramana-portfolio.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sai_ramana_1999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ramanasai&screen_name=sai_ramana_1999)
@@ -41,4 +41,5 @@
 [instagram]: https://www.instagram.com/kalki_rmn/
 [linkedin]: https://www.linkedin.com/in/sairamana1999/
 [webdevplaylist]: https://www.youtube.com/channel/UCyIIDogKCRFFeNdJSIzqmBw
+[linktr]: https://linktr.ee/SaiRamana1999
 
