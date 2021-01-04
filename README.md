@@ -25,6 +25,11 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+
+---
+<img align="center" alt="ramanasai" src="https://github-readme-stats.vercel.app/api?username=ramanasai&show_icons=true&hide_border=true">
+
+
 [website]: https://ramana-portfolio.netlify.app/
 [twitter]: https://twitter.com/sai_ramana_1999
 [youtube]: https://youtube.com/channel/UCyIIDogKCRFFeNdJSIzqmBw
