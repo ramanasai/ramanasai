@@ -3,6 +3,8 @@
 [![website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ramana-portfolio.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sai_ramana_1999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ramanasai&screen_name=sai_ramana_1999)
 
+![Metrics](https://metrics.lecoq.io/ramanasai?template=classic&languages=1&config.timezone=Asia%2FCalcutta)
+
 ## I'm Developer, Coder, Designer and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
