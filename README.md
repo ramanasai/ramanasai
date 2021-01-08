@@ -21,6 +21,18 @@
 <br />
 
 ---
+### Certificates
+<a href="https://realpython.com/certificates/91f5ad51-1366-40d0-9957-f8e9249f6651/">Welcome to Real Python! on Real Python</a>
+<br />
+<a href="https://www.hackerrank.com/certificates/c470cd21b3cf">Java (Basic) on HackerRank</a>
+<br />
+<a href="https://www.hackerrank.com/certificates/e886846cb56e">Python (Basic) on HackerRank</a>
+<br />
+<a href="https://www.youracclaim.com/badges/004e579a-d2b9-457b-8fb3-837e5d1414b8/public_url">IT Academy: Cloud and Virtualization Concepts on VMWare</a>
+<br />
+<a href="https://docs.microsoft.com/en-gb/users/sairamana-9090/"></a>
+
+---
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Code with Me (Every Sunday) || Part 2](https://www.youtube.com/watch?v=NvB_lqWYvC4)
