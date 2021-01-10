@@ -37,11 +37,11 @@
 ---
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Code with Me (Every Sunday) || Part 3](https://www.youtube.com/watch?v=lPbRDLgtO4g)
 - [Code with Me (Every Sunday) || Part 2](https://www.youtube.com/watch?v=NvB_lqWYvC4)
 - [Code with Me (Every Sunday)](https://www.youtube.com/watch?v=ie7IHnhLzXs)
 - [JioFiber Speed Test || 1 Month Free || ₹999 Plan](https://www.youtube.com/watch?v=qZ-FSfiuhm0)
 - [BITOTSAV MEMORIES 2020 || SHREE MEDHA COLLEGE, BALLARI || STATE LEVEL TECH FEST 2020](https://www.youtube.com/watch?v=0NygXtHvd_Y)
-- [Crazzy Snaps Instagram 2020 Photography || IPhone 11 Pro 2020](https://www.youtube.com/watch?v=AORYJxf47AY)
 <!-- YOUTUBE:END -->
 
 
