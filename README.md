@@ -1,6 +1,6 @@
 ### Hi there, I'm P B Sai Ramana -[linktree][linktr] 👋
 
-![GITBOOK](https://sairamana.gitbook.io/)
+[GITBOOK](https://sairamana.gitbook.io/)
 
 ![Metrics](https://metrics.lecoq.io/ramanasai?template=classic&languages=1&config.timezone=Asia%2FCalcutta)
 
