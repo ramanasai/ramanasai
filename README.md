@@ -2,8 +2,6 @@
 
 [GITBOOK](https://sairamana.gitbook.io/)
 
-![Metrics](https://metrics.lecoq.io/ramanasai?template=classic&languages=1&config.timezone=Asia%2FCalcutta)
-
 ## I'm Developer, Coder, Designer and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
