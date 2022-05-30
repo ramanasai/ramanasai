@@ -1,12 +1,13 @@
 ### Hi there, I'm P B Sai Ramana -[linktree][linktr] 👋
 
 [GITBOOK](https://sairamana.gitbook.io/)
+[Mirror](https://mirror.xyz/0x16e81e7f09bF6D12124bf4Bb8a1d29F3f98EB077)
 
 ## I'm Developer, Coder, Designer and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Hacking More
+- 🥅 2022 Goals: Complete Masters.
 - ⚡ Fun fact: I love to act.
 
 ### Connect with me:
@@ -54,3 +55,4 @@
 [webdevplaylist]: https://www.youtube.com/channel/UCyIIDogKCRFFeNdJSIzqmBw
 [linktr]: https://linktr.ee/SaiRamana1999
 [hackerrank]: https://www.hackerrank.com/kingofkingsaira1
+[Mirror]: https://mirror.xyz/0x16e81e7f09bF6D12124bf4Bb8a1d29F3f98EB077
