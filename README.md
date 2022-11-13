@@ -1,15 +1,20 @@
-### Hi there, I'm P B Sai Ramana -[linktree][linktr] 👋
+
+
+
+
+## I'm Developer, Coder, Designer!!
+![Wallpaper](https://user-images.githubusercontent.com/34919781/201510115-571ab1d2-fcf4-4f32-a9a8-f6680e2027b6.png)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Complete Masters.
+
+- ⚡ Fun fact: I love to act.
+
+### Hi there, I'm on -[linktree][linktr] 👋
 
 [GITBOOK](https://sairamana.gitbook.io/)
 <br/>
 [MIRROR](https://mirror.xyz/0x16e81e7f09bF6D12124bf4Bb8a1d29F3f98EB077)
-
-## I'm Developer, Coder, Designer and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Complete Masters.
-- ⚡ Fun fact: I love to act.
 
 ### Connect with me:
 
