@@ -6,7 +6,6 @@
 ![Wallpaper](https://user-images.githubusercontent.com/34919781/201510115-571ab1d2-fcf4-4f32-a9a8-f6680e2027b6.png)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Complete Masters.
 
 - ⚡ Fun fact: I love to act.
 
